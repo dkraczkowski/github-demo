@@ -1,0 +1,13 @@
+from typing import List, Dict
+
+def some_func(arg_1: List, arg_2: Dict) -> None:
+    """
+    Comment for the code
+    :param arg_1:
+    :param arg_2:
+    :return:
+    """
+    ...
+    ...
+    ...
+    ...
